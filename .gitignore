@@ -1,2 +1,5 @@
 # Ignore virtual environment
 com424/
+*/**/ipynb_checkpoints/
+*/**/dist/autograder
+*/**/lab_config.yaml
