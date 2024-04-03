@@ -3,3 +3,4 @@ com424/
 */**/ipynb_checkpoints/
 */**/dist/autograder
 */**/lab_config.yaml
+lab01/lab01.ipynb
